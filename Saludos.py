@@ -4,6 +4,15 @@
 
 nombre = input ("¿Cómo te llamas?: ")
 
+print ("                                   ") 
+print (")\ ) ( (                           ")
+print ("(()/( ) )\ ( )\ )                  ")
+print (" /(_))( /( ((_) ))\ (()/( ( (      ")
+print ("(_)) )(_)) _ /((_) ((_)) )\ )\     ")
+print ("/ __|((_)_ | |(_))( _| | ((_)((_)  ")
+print ("\__ \/ _` || || || |/ _` |/ _ \(_-<")
+print ("|___/\__,_||_| \_,_|\__,_|\___//__/")
+
 #Saludos
 
 print (f"Hola {nombre} Bienvenido(a) a python :) ^_^")
